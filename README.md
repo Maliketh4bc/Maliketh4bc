@@ -5,12 +5,12 @@
 ---
 
 ### 🧭 About Me  
-Desarrollador de Aplicaciones Multiplataforma en proceso, apasionado por el desarrollo de videojuegos y el modelado 3D.  
-Siempre aprendiendo nuevas tecnologías para crear mundos interactivos 🎮  
+Multiplatform Application Developer in training, passionate about video game development and 3D modelling.  
+Always learning new technologies to create interactive worlds. 🎮  
 
 ---
 
-### 🧰 Tecnologías y Herramientas  
+### 🧰 Technologies and Tools  
 
 <p align="center">
   <!-- Lenguajes -->
