@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Marco Álvarez</h1>
 
-<p align="center">"All roads lead to Rome"</p>
+<p align="center">"six seven"</p>
 
 ---
 
