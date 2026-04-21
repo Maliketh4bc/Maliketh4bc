@@ -12,7 +12,7 @@ Always learning new technologies to create interactive worlds. 🎮
 ### 🧰 Technologies and Tools
 
 <div align="center">
-  <table><tr>
+  <table border="0" style="border:none; border-collapse:collapse;"><tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/></td>
